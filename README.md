@@ -1,0 +1,2 @@
+# AndroidOhjelmointiKajander
+Android-ohjelmointikurssin harjoitustyö
